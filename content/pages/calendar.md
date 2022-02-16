@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 2f139db1-bf12-d88a-e764-eda3f96db19b
 ---
@@ -149,7 +151,7 @@ Quiz: vocabulary
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
@@ -161,7 +163,7 @@ Guest
 {{< tdopen >}}
 Set Shop
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Attendance is optional
 {{< tdclose >}}
 
