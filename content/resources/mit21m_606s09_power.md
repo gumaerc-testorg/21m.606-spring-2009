@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 32a8c409-cee9-46e9-b050-b45fe73933f7
 resourcetype: Document
 title: MIT21M_606s09_power.pdf
 uid: bfbda864-d873-5ee0-1e92-c1e8409a2dbc

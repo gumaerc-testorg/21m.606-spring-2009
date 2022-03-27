@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: aea96dfb-34ff-1553-e5ab-9e4f5ce135e4
 resourcetype: Document
 title: MIT21M_606s09_sw01_midterm.pdf
 uid: 3e88e8b4-39ca-d9d6-a250-844485002b06

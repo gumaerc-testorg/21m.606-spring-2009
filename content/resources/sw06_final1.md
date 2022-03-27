@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: aea96dfb-34ff-1553-e5ab-9e4f5ce135e4
 resourcetype: Image
 title: sw06_final1.jpg
 uid: b0d1e860-829a-0c32-8afb-e0227d9756f5
