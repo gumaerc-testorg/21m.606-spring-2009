@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21m-606-introduction-to-stagecraft-spring-2009/cfa500f17ab038423b80717c4cf52fed_MIT21M_606s09_syll01_hours.pdf
+file: /courses/21m-606-introduction-to-stagecraft-spring-2009/cfa500f17ab038423b80717c4cf52fed_MIT21M_606s09_syll01_hours.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

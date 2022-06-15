@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course objectives, meeting
+  times, attendance policy, text and materials, midterm presentations, the final project,
+  lab hours, and grade calculation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -40,7 +43,7 @@ Final Project
 
 Design and construct a major costume, property, scenic or furniture item. This will be worth one quarter of the course grade and will be presented for the final exam. Your projects will be graded on quality of execution and thoroughness of supporting materials. Since we would like to see you take risks with these projects, the difficulty of the project and how much you pushed yourself outside your comfort level will be taken into consideration. However, do not expect these factors to excuse ineffective time management, incomplete projects, and/or poor workmanship.
 
-Production Work/Lab Hours ([PDF]({{< baseurl >}}/resources/mit21m_606s09_assn03_hours))
+Production Work/Lab Hours ({{% resource_link 08d6fde7-b90c-41da-b813-cd436bd47dbc "PDF" %}})
 ---------------------------------------------------------------------------------------
 
 A total of 24 hours: six hours in each of the three shops and an additional six in a shop of the student's choice. These hours are required for successful completion of the course, and are worth one quarter of the final grade.

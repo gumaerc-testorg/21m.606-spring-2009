@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21m-606-introduction-to-stagecraft-spring-2009/08d6fde7b90c41dab813cd436bd47dbc_MIT21M_606s09_assn03_hours.pdf
+file: /courses/21m-606-introduction-to-stagecraft-spring-2009/08d6fde7b90c41dab813cd436bd47dbc_MIT21M_606s09_assn03_hours.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
