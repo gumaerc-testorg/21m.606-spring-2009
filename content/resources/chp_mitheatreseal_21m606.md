@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_mitheatreseal_21m606.jpg
 uid: f787b9bf-643f-41b6-13e1-1a33ca2ddd12
 ---
 The MIT seal, with some modifications. (Image courtesy MIT Theatre Department.)
-

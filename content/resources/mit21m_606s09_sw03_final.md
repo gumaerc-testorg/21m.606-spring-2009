@@ -5,6 +5,7 @@ file: /courses/21m-606-introduction-to-stagecraft-spring-2009/a6709c9c405ebaae0f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT21M_606s09_sw03_final.pdf
 uid: a6709c9c-405e-baae-0f1e-e51602e2f3b7
 ---
 The resource contains final report on the topic "Superhero Costume".
-

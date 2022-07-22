@@ -4,6 +4,7 @@ description: ''
 file: /courses/21m-606-introduction-to-stagecraft-spring-2009/cfa500f17ab038423b80717c4cf52fed_MIT21M_606s09_syll01_hours.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
