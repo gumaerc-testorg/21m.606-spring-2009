@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This assignments section provides information on course exercises, production
+  work, lab hours, midterm presentations, the final project, and examples of student
+  work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: aea96dfb-34ff-1553-e5ab-9e4f5ce135e4
 ---
@@ -14,7 +20,7 @@ Widget Exercise
 *   Keep a list of tools used and what you used them for and your impression of the tool
 *   Turn in list with widget by Ses #11
 
-Tool List ([PDF]({{< baseurl >}}/resources/mit21m_606s09_assn01_tools))
+Tool List ({{% resource_link abc72294-f17d-7cb3-a195-637f2941c35a "PDF" %}})
 
 Costume Trousers
 ----------------
@@ -43,7 +49,7 @@ Wash your fabric in whatever temperature water that you plan to keep washing the
 
 Please have fun customizing your trousers. Play with length, trims, fabric mixing and pockets, if you choose. I have attached some sketches of the different pocket options we have available.
 
-Pocket Options (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_606s09_assn02_trousers))
+Pocket Options ({{% resource_link 20668dad-d84d-73f3-e469-70bd479e8634 "PDF" %}})
 
 Production Work/Lab Hours
 -------------------------
@@ -52,7 +58,7 @@ A total of 24 hours: six hours in each of the three shops and an additional six 
 
 Students are urged to call the shops or otherwise confirm work times specifically with the staff before arriving at any site to fulfill production hours.
 
-Log Sheet ([PDF]({{< baseurl >}}/resources/mit21m_606s09_assn03_hours))
+Log Sheet ({{% resource_link 08d6fde7-b90c-41da-b813-cd436bd47dbc "PDF" %}})
 
 Midterm Presentation
 --------------------
@@ -107,7 +113,7 @@ REPORTS
 Glider Chair
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_606s09_sw01_midterm))
+({{% resource_link 3e88e8b4-39ca-d9d6-a250-844485002b06 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -119,7 +125,7 @@ Glider Chair
 Hat and Vest Combo
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_606s09_sw02_midterm))
+({{% resource_link 093218a4-c084-e2ba-19a5-259f4e40c8c0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -131,10 +137,10 @@ Hat and Vest Combo
 Superhero Costume
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_606s09_sw03_midterm))
+({{% resource_link 71364152-9133-3686-afa5-efe30c7c6e26 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_606s09_sw03_final))
+({{% resource_link a6709c9c-405e-baae-0f1e-e51602e2f3b7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -143,10 +149,10 @@ Superhero Costume
 1930s Evening Dress
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_606s09_sw06_midterm))
+({{% resource_link ed1ca0d3-9461-b65f-5db8-5aa0836239cf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([JPG 1]({{< baseurl >}}/resources/sw06_final1)) ([JPG 2]({{< baseurl >}}/resources/sw06_final2))
+({{% resource_link b0d1e860-829a-0c32-8afb-e0227d9756f5 "JPG 1" %}}) ({{% resource_link e851e4bf-3ec9-5644-eb07-6d8d58831adf "JPG 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics, lab hours,
+  instructors, locations., quizzes, and projects.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 2f139db1-bf12-d88a-e764-eda3f96db19b
 ---
@@ -48,7 +52,7 @@ Set Shop
 {{< tdopen >}}
 
 
-Theater production ([PDF]({{< baseurl >}}/resources/mit21m_606s09_lec01))
+Theater production ({{% resource_link 915319c9-f41d-922d-1ce0-137d8488d160 "PDF" %}})
 
 Rules and regulations
 
@@ -70,7 +74,7 @@ MK
 Set Shop
 {{< tdclose >}}
 {{< tdopen >}}
-Scenic units ([PDF]({{< baseurl >}}/resources/mit21m_606s09_lec02))
+Scenic units ({{% resource_link 32872b1d-d40e-8496-a6b7-e762e511e5c0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,9 +94,9 @@ Set Shop
 {{< tdopen >}}
 
 
-Materials ([PDF]({{< baseurl >}}/resources/mit21m_606s09_lec03))
+Materials ({{% resource_link f49793c5-3d68-5170-9ae4-11551d0ad403 "PDF" %}})
 
-Theatrical lumber weights and dimensions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_606s09_res03))
+Theatrical lumber weights and dimensions ({{% resource_link e5464cd6-e6bd-0f44-7d8b-19a7452d8d31 "PDF" %}})
 
 Quiz: scenic
 
@@ -116,9 +120,9 @@ Little Theatre
 {{< tdopen >}}
 
 
-Theater vocabulary ([PDF]({{< baseurl >}}/resources/mit21m_606s09_lec04))
+Theater vocabulary ({{% resource_link 680203c0-bc26-f054-7756-5b1d61a2857b "PDF" %}})
 
-Theater terms for the stagehand ([PDF]({{< baseurl >}}/resources/mit21m_606s09_res04))
+Theater terms for the stagehand ({{% resource_link dd2123a5-5c91-6e5b-04b6-6c4471e0b9d6 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -140,7 +144,7 @@ Set Shop
 {{< tdopen >}}
 
 
-Moving scenery and intro to the shop ([PDF]({{< baseurl >}}/resources/mit21m_606s09_lec05))
+Moving scenery and intro to the shop ({{% resource_link 75ab5941-0a9e-c046-56db-1026cc4475df "PDF" %}})
 
 Quiz: vocabulary
 
@@ -149,7 +153,7 @@ Quiz: vocabulary
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
@@ -161,7 +165,7 @@ Guest
 {{< tdopen >}}
 Set Shop
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Attendance is optional
 {{< tdclose >}}
 
@@ -194,7 +198,7 @@ Set Shop
 {{< tdopen >}}
 
 
-Hand and power tool safety ([PDF]({{< baseurl >}}/resources/mit21m_606s09_lec07))
+Hand and power tool safety ({{% resource_link 9793ffd0-617f-cacf-1871-5765fea600ed "PDF" %}})
 
 [Power Tool Institute](http://www.powertoolinstitute.com/)
 
@@ -382,7 +386,7 @@ Set Shop
 {{< tdopen >}}
 
 
-Knots ([PDF]({{< baseurl >}}/resources/mit21m_606s09_lec17))
+Knots ({{% resource_link c888af8c-1419-87b9-1f25-47ce38ca8ca6 "PDF" %}})
 
 Quiz: lights
 
@@ -482,7 +486,7 @@ SB/MK
 Classroom
 {{< tdclose >}}
 {{< tdopen >}}
-Stage managing manual ([PDF - 2.5MB]({{< baseurl >}}/resources/mit21m_606s09_res22)) (Courtesy of Teresa Hernandez. Use with permission.)
+Stage managing manual ({{% resource_link 5a050f6d-129f-3a2e-7976-520995a6b7e2 "PDF - 2.5MB" %}}) (Courtesy of Teresa Hernandez. Use with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
