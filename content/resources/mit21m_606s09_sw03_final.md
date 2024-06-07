@@ -2,6 +2,7 @@
 content_type: resource
 description: The resource contains final report on the topic "Superhero Costume".
 file: /courses/21m-606-introduction-to-stagecraft-spring-2009/a6709c9c405ebaae0f1ee51602e2f3b7_MIT21M_606s09_sw03_final.pdf
+file_size: 53716
 file_type: application/pdf
 learning_resource_types:
 - Assignments
