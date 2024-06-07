@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21m-606-introduction-to-stagecraft-spring-2009/e851e4bf3ec95644eb076d8d58831adf_sw06_final2.jpg
+file_size: 707026
 file_type: image/jpeg
 image_metadata:
   caption: ''
