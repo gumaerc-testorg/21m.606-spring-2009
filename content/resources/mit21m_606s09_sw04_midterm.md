@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21m-606-introduction-to-stagecraft-spring-2009/201f9addb3e25860dd46325107156699_MIT21M_606s09_sw04_midterm.pdf
+file_size: 81789
 file_type: application/pdf
 learning_resource_types:
 - Assignments
