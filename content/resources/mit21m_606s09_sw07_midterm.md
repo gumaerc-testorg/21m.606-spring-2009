@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21m-606-introduction-to-stagecraft-spring-2009/c2fa66382a47aa5b49baff5a89244acd_MIT21M_606s09_sw07_midterm.pdf
+file: /ol-ocw-studio-app/courses/21m-606-introduction-to-stagecraft-spring-2009/c2fa66382a47aa5b49baff5a89244acd_MIT21M_606s09_sw07_midterm.pdf
 file_size: 4722235
 file_type: application/pdf
 learning_resource_types:
