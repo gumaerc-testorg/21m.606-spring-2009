@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The MIT seal, with some modifications. (Image courtesy MIT Theatre Department.)
-file: /courses/21m-606-introduction-to-stagecraft-spring-2009/f787b9bf643f41b613e11a33ca2ddd12_chp_mitheatreseal_21m606.jpg
+file: /ol-ocw-studio-app/courses/21m-606-introduction-to-stagecraft-spring-2009/f787b9bf643f41b613e11a33ca2ddd12_chp_mitheatreseal_21m606.jpg
 file_size: 55381
 file_type: image/jpeg
 image_metadata:
