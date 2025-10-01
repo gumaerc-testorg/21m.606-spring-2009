@@ -16,14 +16,14 @@ Hernandez, Teresa, and Mike Katz. _Stage Managing Co-Curricular Theater at MIT_.
 Sound
 -----
 
-[Audacity Tutorial](http://audacity.sourceforge.net/manual-1.2/tutorials.html) - Free sound editing software for Mac, PC, or Linux
+{{% resource_link "0cd337fd-c409-42b9-99e8-f08667bf3a19" "Audacity Tutorial" %}} - Free sound editing software for Mac, PC, or Linux
 
-[QLab Help](http://figure53.com/qlab/documentation/) - Sound playback for Mac
+{{% resource_link "a9d17529-e7e5-434d-bd85-204d3a5d249e" "QLab Help" %}} - Sound playback for Mac
 
 Lighting
 --------
 
-Sections 6.04-6.07 in Williams, Bill. "[Lighting Mechanics](http://billwilliams.ca/resources/sld/sld-600.htm)." Chapter 6 in _Stage Lighting Design 101_. Winnipeg, Canada: Bill Williams and Associates, 2007.
+Sections 6.04-6.07 in Williams, Bill. "{{% resource_link "557886e9-54ee-44b1-845d-d85891ee7112" "Lighting Mechanics" %}}." Chapter 6 in _Stage Lighting Design 101_. Winnipeg, Canada: Bill Williams and Associates, 2007.
 
 Lighting Power ({{% resource_link c33d6e75-b851-ac94-eb93-dd3cbcc47bbf "PDF" %}})  
 Light Diagrams ({{% resource_link 9d90ae9e-547e-695c-9e4a-35b5738ea2dc "PDF" %}})
