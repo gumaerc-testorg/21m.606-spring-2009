@@ -200,7 +200,7 @@ Set Shop
 
 Hand and power tool safety ({{% resource_link 9793ffd0-617f-cacf-1871-5765fea600ed "PDF" %}})
 
-[Power Tool Institute](http://www.powertoolinstitute.com/)
+{{% resource_link "720210d1-062d-4144-a51c-06547709964c" "Power Tool Institute" %}}
 
 Quiz: scenic
 
